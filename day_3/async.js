@@ -34,7 +34,7 @@ console.log(arrowfunName1())
           Promise { undefined }
 */
 
-//To remove promise(we had used await):
+//removing promise:
 async function funName2()
 {
     setTimeout(()=>{
@@ -51,3 +51,4 @@ arrowfunName2 =async() =>{
 }
 funName2()
 arrowfunName2()
+//in the above ex we had used await keyword to remove promise

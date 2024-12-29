@@ -13,7 +13,7 @@ console.log(obj3);
 //{
 //    console.log(key,value);
 //}
-for key in obj3{
+for (key in obj3){
     value=obj3[key]
     console.log(key,value)
 }
