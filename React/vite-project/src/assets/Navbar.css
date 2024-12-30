@@ -1,0 +1,6 @@
+.box-model{
+    font-size: 100p;
+    margin: 10px;
+    border: 20px solid  blue;
+    padding-left: 10px;
+}
